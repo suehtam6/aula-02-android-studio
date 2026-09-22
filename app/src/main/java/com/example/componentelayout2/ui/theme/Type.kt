@@ -13,6 +13,10 @@ val Righteos = FontFamily(
     Font(R.font.righteous_regular)
 )
 
+val nabla = FontFamily(
+    Font(R.font.nabla)
+)
+
 // Set of Material typography styles to start with
 val Typography = Typography(
     bodyLarge = TextStyle(
